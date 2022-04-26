@@ -19,10 +19,10 @@ Followingst tech stack is used
 5. Google Translate apis
 
 ### Installation
-1 .Clone the repo
+1.Clone the repo
  git clone https://github.com/Nindal/farmer-assignment.git
-
-2. Install NPM packages
+ 
+2.Install NPM packages
  npm install
  
 3.create a dotenv file and mention google translate api credentials
